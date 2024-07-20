@@ -1,2 +1,2 @@
 # edabitPythonChallenge
-My solutions/code for the Python very easy level challenge at edabit.
+My solutions/code for the Python challenge at edabit.
